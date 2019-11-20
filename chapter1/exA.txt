@@ -1,0 +1,11 @@
+B'day - special character
+#HASH - special character
+total% - special character
+variable name - space
+while - keyword
+dot. - special character
+_main() - special characters
+1st - starts with number
+%name% - special characters
+$hello - special character
+stack-queue - special character

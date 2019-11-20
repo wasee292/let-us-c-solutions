@@ -1,0 +1,16 @@
+a) F
+b) T
+c) T
+d) F
+e) T
+f) T
+g) F
+h) T
+i) T
+j) T
+k) F
+l) T
+m) T
+n) T
+o) T
+p) F
