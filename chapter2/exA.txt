@@ -1,0 +1,11 @@
+d => assignee should be to the left of '='
+
+e => invalid character to right of '='
+
+h => invalid variable name "area of circle"
+
+j => invalid operand
+
+k => variable can't be assigned to constant "4 = a" and "3 = b"
+
+m => invalid value for char variable 
